@@ -40,9 +40,12 @@
 <img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=Mdsaif4363&theme=radical">
 
 </div>
-![](https://github-readme-stats.vercel.app/api?username=Mdsaif4363&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Mdsaif4363&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mdsaif4363&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mdsaif4363&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
+![](https://github-readme-stats.vercel.app/api?username=Mdsaif4363&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Mdsaif4363&theme=dark&hide_border=false)
+
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Mdsaif4363&theme=radical&no-frame=false&no-bg=true&margin-w=4)
