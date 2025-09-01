@@ -26,8 +26,10 @@
 <a target="_blank" href="https://www.facebook.com/Md Saif Ali" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" /></a>
 <a target="_blank" href="https://www.instagram.com/md_saif_ali_063" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
 
-# 📊 GitHub Stats:
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=MdSaifAli063&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+# 📊 GitHub Stats:
 
 <div align="center">
 
@@ -45,10 +47,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=MdSaifAli063&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MdSaifAli063&theme=dark&hide_border=false)
 
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MdSaifAli063&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
