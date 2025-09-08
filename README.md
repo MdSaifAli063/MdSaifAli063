@@ -38,13 +38,11 @@
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MdSaifAli063&theme=radical">
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MdSaifAli063&theme=radical">
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MdSaifAli063&theme=radical&utcOffset=8">
-<img height="169em" src="https://github-readme-stats.vercel.app/api?username=MdSaifAli063&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
+<img height="169em" src="https://github-readme-stats.vercel.app/api?username=MdSaifAli063&theme=radical&hide_border=false&include_all_commits=true&count_private=false">
 <img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=MdSaifAli063&theme=radical">
 <img height="175em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MdSaifAli063&theme=radical">
 
 </div>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MdSaifAli063&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
 ![](https://github-readme-stats.vercel.app/api?username=MdSaifAli063&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MdSaifAli063&theme=dark&hide_border=false)
 
