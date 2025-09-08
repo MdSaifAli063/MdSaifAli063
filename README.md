@@ -40,7 +40,7 @@
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MdSaifAli063&theme=radical&utcOffset=8">
 <img height="169em" src="https://github-readme-stats.vercel.app/api?username=MdSaifAli063&theme=radical&hide_border=false&include_all_commits=true&count_private=true">
 <img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=MdSaifAli063&theme=radical">
-<img height="175em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MdSaifAli063&theme=radical">
+<img height="175em" align="left" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MdSaifAli063&theme=radical">
 
 </div>
 
@@ -48,7 +48,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MdSaifAli063&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=MdSaifAli063&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MdSaifAli063&icon=0&color=0)](https://visitcount.itsvg.in)
