@@ -44,10 +44,6 @@
 
 </div>
 
-![](https://github-readme-stats.vercel.app/api?username=MdSaifAli063&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MdSaifAli063&theme=dark&hide_border=false)
-
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
