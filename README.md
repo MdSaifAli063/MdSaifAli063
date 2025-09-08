@@ -28,7 +28,7 @@
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=MdSaifAli063&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=MdSaifAli063&theme=outrun&no-frame=false&no-bg=true&margin-w=4)
 
 # 📊 GitHub Stats:
 
