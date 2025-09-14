@@ -1,7 +1,11 @@
 ![image](https://github.com/MdSaifAli063/MdSaifAli063/blob/3f51ff880dd88f79adad98f553181ffd20f133bf/Saifbanner.png)
 <h1 align="center">Hi 👋, I'm Saif !</h1>
-<p align="center">A passionate full-stack developer from Bangalore, India—building seamless web experiences from backend to frontend.</p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=MdSaifAli063&label=Profile%20views&color=0e75b6&style=flat" alt="MdSaifAli063" /> </p>
+<p align="center">A passionate full-stack developer from Bangalore, India-building seamless web experiences from backend to frontend.</p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=MdSaifAli063&label=Profile%20views&color=0e75b6&style=flat" alt="MdSaifAli063" /> 
+  
+  [![](https://visitcount.itsvg.in/api?id=MdSaifAli063&icon=0&color=0)](https://visitcount.itsvg.in)
+
+</p>
 <h2 align="center">🚀 Languages and Tools I Use</h2>
 <p align="center"><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
@@ -77,8 +81,6 @@
  
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MdSaifAli063&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Snake Game Repo View -->
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
