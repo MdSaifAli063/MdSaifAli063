@@ -2,10 +2,10 @@
 <p>A passionate full-stack developer from Bangalore, India—building seamless web experiences from backend to frontend.</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MdSaifAli063&label=Profile%20views&color=0e75b6&style=flat" alt="MdSaifAli063" /> </p>
 <p align="center">   
-  <img src="https://badges.pufler.dev/visits/MdSaifAli063/MdSaifAli063"/>   
-  <img src="https://badges.pufler.dev/years/MdSaifAli063"/>
-  <img src="https://badges.pufler.dev/repos/MdSaifAli063"/>  
-  <img src="https://badges.pufler.dev/commits/monthly/MdSaifAli063" /> 
+  <img src="https://badges.pufler.dev/visits/?username=MdSaifAli063&label=Profile%20views&color=0e75b6&style=flat" alt="MdSaifAli063""/>   
+  <img src="https://badges.pufler.dev/years/?username=MdSaifAli063&label=Profile%20views&color=0e75b6&style=flat" alt="MdSaifAli063""/>
+  <img src="https://badges.pufler.dev/repos/?username=MdSaifAli063&label=Profile%20views&color=0e75b6&style=flat" alt="MdSaifAli063""/>  
+  <img src="https://badges.pufler.dev/commits/monthly/?username=MdSaifAli063&label=Profile%20views&color=0e75b6&style=flat" alt="MdSaifAli063"" /> 
 </p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
