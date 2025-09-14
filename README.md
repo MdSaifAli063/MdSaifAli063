@@ -38,11 +38,15 @@
 <a target="_blank" href="https://www.instagram.com/md_saif_ali_063" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
 
 <h2 align="center">🏆 GitHub Trophies</h2>
-<p  align="center">
+
+<div  align="center">
+  <img height="68em" src="https://github-profile-trophy.vercel.app/?username=MdSaifAli063&theme=radical&no-frame=false&no-bg=true&margin-w=4">
+</div>
+
   
 ![](https://github-profile-trophy.vercel.app/?username=MdSaifAli063&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-</p>
+
 
 <h2 align="center">📊 GitHub Stats:</h2>
 
