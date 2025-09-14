@@ -38,9 +38,11 @@
 <a target="_blank" href="https://www.instagram.com/md_saif_ali_063" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
 
 <h2 align="center">🏆 GitHub Trophies</h2>
-
+<p  align="center">
+  
 ![](https://github-profile-trophy.vercel.app/?username=MdSaifAli063&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+</p>
 
 <h2 align="center">📊 GitHub Stats:</h2>
 
@@ -59,19 +61,23 @@
 
 <h2 align="center">✍️ Random Dev Quote</h2>
 
-  
+  <p align="center">
+    
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+</p>
 
 <h2 align="center">🔝 Top Contributed Repo</h2>
 
+<p align="center">
 
 ![](https://github-contributor-stats.vercel.app/api?username=MdSaifAli063&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
+</p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MdSaifAli063&icon=0&color=0)](https://visitcount.itsvg.in)
 
-</div>
 <!-- Snake Game Repo View -->
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
