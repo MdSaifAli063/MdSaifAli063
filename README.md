@@ -2,9 +2,6 @@
 <h1 align="center">Hi 👋, I'm Saif !</h1>
 <p align="center">A passionate full-stack developer from Bangalore, India-building seamless web experiences from backend to frontend.</p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=MdSaifAli063&label=Profile%20views&color=0e75b6&style=flat" alt="MdSaifAli063" /> 
-  
-  [![](https://visitcount.itsvg.in/api?id=MdSaifAli063&icon=0&color=0)
-
 </p>
 <h2 align="center">🚀 Languages and Tools I Use</h2>
 <p align="center"><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
