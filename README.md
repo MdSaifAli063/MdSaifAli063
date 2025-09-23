@@ -51,7 +51,7 @@
 <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MdSaifAli063&theme=radical&hide_border=false">
 <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MdSaifAli063&theme=radical&hide_border=false">
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MdSaifAli063&theme=radical&hide_border=false">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MdSaifAli063&theme=radical&hide_border=false">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MdSaifAli063&theme=radical&hide_border=true">
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MdSaifAli063&theme=radical&hide_border=false&utcOffset=8">
 <img height="169em" src="https://github-readme-stats.vercel.app/api?username=MdSaifAli063&theme=radical&hide_border=false&include_all_commits=true&count_private=true">
 <img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=MdSaifAli063&theme=radical">
