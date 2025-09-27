@@ -55,7 +55,7 @@
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MdSaifAli063&theme=radical&utcOffset=8">
 <img height="169em" src="https://github-readme-stats.vercel.app/api?username=MdSaifAli063&theme=radical&hide_border=false&include_all_commits=true&count_private=true">
 <img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=MdSaifAli063&theme=radical">
-<img height="180em" width="300em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MdSaifAli063&theme=radical">
+<img height="180em" width="400em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MdSaifAli063&theme=radical">
 
 </div>
 
