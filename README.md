@@ -90,7 +90,7 @@
 ---
 <p align="center">
   
- ⭐ **Feel free to explore my repositories and projects!**  
+ ⭐ Feel free to explore my repositories and projects!
  <br>
 If you like what you see, don't forget to ⭐ star and follow 😊 
 
