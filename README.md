@@ -69,7 +69,6 @@
    
   </p>
   
----
 
 <h2 align="center">🔝 Top Contributed Repo</h2>
 
@@ -81,7 +80,6 @@
   </div>
  
 
----
 <!-- Snake Game Repo View -->
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
@@ -89,7 +87,6 @@
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
----
 <p align="center">
  ⭐ Feel free to explore my repositories and projects!
  <br>
