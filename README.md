@@ -1,7 +1,7 @@
 ![image](https://github.com/MdSaifAli063/MdSaifAli063/blob/3f51ff880dd88f79adad98f553181ffd20f133bf/Saifbanner.png)
 <h1 align="center">Hi 👋, I'm Saif !</h1>
 <p align="center">👨‍💻 A passionate *Full-Stack Developer* from📍Bangalore, India — building seamless web experiences from 🔧 backend to 🎨 frontend.<br>
-  🌐 HTML 🔵 CSS 🟨 JavaScript 🟢 Node.js 🐍 Python
+  
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=MdSaifAli063&label=Profile%20views&color=0e75b6&style=flat" alt="MdSaifAli063" /> 
 </p>
