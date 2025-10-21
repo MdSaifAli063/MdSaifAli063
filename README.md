@@ -36,7 +36,7 @@
 
 <h2 align="center">⚡️ Where to find me</h2>
 <p align="center">
-  <a target="_blank" href="https://www.linkedin.com/in/in/md-saif-ali-6bb4ab292" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
+  <a target="_blank" href="https://www.linkedin.com/in/md-saif-ali-6bb4ab292/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
   <a target="_blank" href="https://x.com/@Md_Saif_Ali_063" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
 <a target="_blank" href="https://www.youtube.com/@softtrickscode-063" style="display: inline-block;"><img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000" alt="youtube" /></a>
 <a target="_blank" href="https://www.instagram.com/md_saif_ali_063" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a>
