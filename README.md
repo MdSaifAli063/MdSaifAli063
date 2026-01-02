@@ -57,7 +57,7 @@
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MdSaifAli063&theme=radical" />
+  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MdSaifAli063&theme=radical)
 </p>
 
 
