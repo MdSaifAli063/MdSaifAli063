@@ -1,23 +1,17 @@
 ![image](https://github.com/MdSaifAli063/MdSaifAli063/blob/3f51ff880dd88f79adad98f553181ffd20f133bf/Saifbanner.png)
 <h1 align="center">Hi 👋, I'm Saif !</h1>
 
-<p align="center" font-size="bold">
- 
- An aspiring Full-Stack Developer
+<h3 align="center"><b>An Aspiring Full-Stack Developer</b></h3>
 
+<p align="center">
+🛠️ Currently building full-stack web projects and improving my online presence<br>
+📚 Learning every day to write better code and follow modern web standards<br>
+🌐 Open to collaborating on meaningful open-source web projects<br>
+🧩 Looking for guidance on advanced and modern web technologies<br>
+💡 Happy to talk about frontend, backend, and real-world web development<br>
+📩 Reach me at: <b>mdsaifali6303@gmail.com</b>
 </p>
 
-🛠️ Currently building full-stack web projects and improving my online presence
-
-📚 Learning every day to write better code and follow modern web standards
-
-🌐 Open to collaborating on meaningful open-source web projects
-
-🧩 Looking for guidance on advanced and modern web technologies
-
-💡 Happy to talk about frontend, backend, and real-world web development
-
-📩 Reach me at: mdsaifali6303@gmail.com
 
 
 
