@@ -56,9 +56,7 @@
 
 <h2 align="center">🏆 GitHub Trophies</h2>
 
-<p align="center">
-  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MdSaifAli063&theme=radical)
-</p>
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MdSaifAli063&theme=radical)
 
 
 <h2 align="center">📊 GitHub Stats:</h2>
