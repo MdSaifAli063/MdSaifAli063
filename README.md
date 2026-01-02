@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm Saif !</h1>
 <p align="center">
 </p>
+
 🛠️ Currently building full-stack web projects and improving my online presence
 
 📚 Learning every day to write better code and follow modern web standards
@@ -11,6 +12,8 @@
 🧩 Looking for guidance on advanced and modern web technologies
 
 💡 Happy to talk about frontend, backend, and real-world web development
+
+📩 Reach me at: hr872259@gmail.com
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=MdSaifAli063&label=Profile%20views&color=0e75b6&style=flat" alt="MdSaifAli063" /> 
 </p>
