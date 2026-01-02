@@ -3,9 +3,9 @@
 
 <p align="center">
  
- Full-Stack Developer
+  Full-Stack Developer
 
-🛠️ Currently building full-stack web projects and improving my online presence
+ 🛠️ Currently building full-stack web projects and improving my online presence
 
 📚 Learning every day to write better code and follow modern web standards
 
@@ -18,7 +18,6 @@
 📩 Reach me at: mdsaifali6303@gmail.com
 
 </p>
-
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=MdSaifAli063&label=Profile%20views&color=0e75b6&style=flat" alt="MdSaifAli063" /> 
