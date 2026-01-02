@@ -3,9 +3,9 @@
 
 <p align="center">
  
-  Full-Stack Developer
+ An aspiring Full-Stack Developer
 
- 🛠️ Currently building full-stack web projects and improving my online presence
+🛠️ Currently building full-stack web projects and improving my online presence
 
 📚 Learning every day to write better code and follow modern web standards
 
