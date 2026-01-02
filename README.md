@@ -7,6 +7,9 @@
 📚 Learning every day to write better code and follow modern web standards
 
 🌐 Open to collaborating on meaningful open-source web projects
+
+🧩 Looking for guidance on advanced and modern web technologies
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=MdSaifAli063&label=Profile%20views&color=0e75b6&style=flat" alt="MdSaifAli063" /> 
 </p>
 <h2 align="center">🚀 Languages and Tools I Use</h2>
