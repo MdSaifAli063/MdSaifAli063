@@ -4,15 +4,15 @@
 <h3 align="center"><b>An Aspiring Full-Stack Developer</b></h3>
 
 <p align="center">
-🛠️ Currently building full-stack web projects and improving my online presence<br>
-  
-📚 Learning every day to write better code and follow modern web standards<br>
+🛠️ Currently building full-stack web projects and improving my online presence<br><br>
 
-🌐 Open to collaborating on meaningful open-source web projects<br>
+📚 Learning every day to write better code and follow modern web standards<br><br>
 
-🧩 Looking for guidance on advanced and modern web technologies<br>
+🌐 Open to collaborating on meaningful open-source web projects<br><br>
 
-💡 Happy to talk about frontend, backend, and real-world web development<br>
+🧩 Looking for guidance on advanced and modern web technologies<br><br>
+
+💡 Happy to talk about frontend, backend, and real-world web development<br><br>
 
 📩 Reach me at: <b>mdsaifali6303@gmail.com</b>
 </p>
