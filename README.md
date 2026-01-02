@@ -5,15 +5,10 @@
 
 <p align="center">
 🛠️ Currently building <b>full-stack web projects</b> and improving my <b>online presence</b><br><br>
-
 📚 Learning every day to write <b>better code</b> and follow <b>modern web standards</b><br><br>
-
 🌐 Open to collaborating on <b>meaningful open-source web projects</b><br><br>
-
 🧩 Looking for guidance on <b>advanced</b> and <b>modern web technologies</b><br><br>
-
 💡 Happy to talk about <b>frontend</b>, <b>backend</b>, and <b>real-world web development</b><br><br>
-
 📩 Reach me at: <b>mdsaifali6303@gmail.com</b>
 </p>
 
