@@ -10,6 +10,8 @@
 
 🧩 Looking for guidance on advanced and modern web technologies
 
+💡 Happy to talk about frontend, backend, and real-world web development
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=MdSaifAli063&label=Profile%20views&color=0e75b6&style=flat" alt="MdSaifAli063" /> 
 </p>
 <h2 align="center">🚀 Languages and Tools I Use</h2>
