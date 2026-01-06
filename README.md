@@ -9,7 +9,7 @@
 🌐 Open to collaborating on <b>meaningful open-source web projects</b><br><br>
 🧩 Looking for guidance on <b>advanced</b> and <b>modern web technologies</b><br><br>
 💡 Happy to talk about <b>frontend</b>, <b>backend</b>, and <b>real-world web development</b><br><br>
-📩 Reach me at: <b>mdsaifali6303@gmail.com</b>
+📩 Reach me at:mdsaifali6303@gmail.com
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=MdSaifAli063&label=Profile%20views&color=0e75b6&style=flat" alt="MdSaifAli063" /> 
