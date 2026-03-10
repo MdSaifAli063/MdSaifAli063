@@ -1,20 +1,12 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/lightning.gif" height="30px" width="30px"> I'm Md Saif Ali</h1>
 
-<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" alt="Banner" width="100%" height="100%" />
-
 <h3 align="center"><b>An Aspiring Full-Stack Developer</b></h3>
 
-<p align="center">
-🛠️ Currently building <b>full-stack web projects</b> and improving my <b>online presence</b><br><br>
-📚 Learning every day to write <b>better code</b> and follow <b>modern web standards</b><br><br>
-🌐 Open to collaborating on <b>meaningful open-source web projects</b><br><br>
-🧩 Looking for guidance on <b>advanced</b> and <b>modern web technologies</b><br><br>
-💡 Happy to talk about <b>frontend</b>, <b>backend</b>, and <b>real-world web development</b><br><br>
-📩 Reach me at: mdsaifali6303@gmail.com
-</p>
+<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" alt="Banner" width="100%" height="100%" />
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=MdSaifAli063&label=Profile%20views&color=0e75b6&style=flat" alt="MdSaifAli063" /> 
 </p>
+
 <h2 align="center">🚀 Languages and Tools I Use</h2>
 <p align="center"><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
