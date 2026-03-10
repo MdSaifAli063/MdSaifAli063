@@ -1,6 +1,6 @@
-![image](https://github.com/MdSaifAli063/MdSaifAli063/blob/3f51ff880dd88f79adad98f553181ffd20f133bf/Saifbanner.png)
-
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/lightning.gif" height="30px" width="30px"> I'm Md Saif Ali</h1>
+
+<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" alt="Banner" width="100%" />
 
 <h3 align="center"><b>An Aspiring Full-Stack Developer</b></h3>
 
