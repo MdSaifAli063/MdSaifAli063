@@ -66,6 +66,10 @@
 <img height="169em" src="https://streak-stats.demolab.com/?user=MdSaifAli063&theme=radical&border=true&cache_seconds=86400" alt="MdSaifAli063's GitHub Streak">
 <img height="169em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MdSaifAli063&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
 
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=MdSaifAli063&theme=radical&radius=10" alt="MdSaifAli063's Activity Graph" />
+</p>
+
 </div>
 
 <h2 align="center">✍️ Random Dev Quote</h2>
