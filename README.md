@@ -7,7 +7,7 @@
 <h3 align="center"><b>An Aspiring Full-Stack Developer</b></h3>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="500"/>
+  <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="400"/>
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=MdSaifAli063&label=Profile%20views&color=0e75b6&style=flat" alt="MdSaifAli063" /> 
