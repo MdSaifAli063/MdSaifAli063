@@ -49,7 +49,7 @@
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MdSaifAli063&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
+  <img src="https://trophy.ryglcloud.net/?username=MdSaifAli063&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Md Saif Ali's GitHub Trophies" />
 </p>
 
 
