@@ -62,7 +62,7 @@
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MdSaifAli063&theme=radical">
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MdSaifAli063&theme=radical">
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MdSaifAli063&theme=radical&utcOffset=8">
-<img height="169em" src="https://github-readme-stats.vercel.app/api?username=MdSaifAli063&theme=radical&hide_border=false&include_all_commits=true&count_private=true">
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MdSaifAli063&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="MdSaifAli063's GitHub Stats" />
 <img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=MdSaifAli063&theme=radical">
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MdSaifAli063&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
 
